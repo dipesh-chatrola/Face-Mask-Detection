@@ -1,2 +1,3 @@
 # Face-Mask-Detection😷
 The project is made to deploy Deep Learning Approach to Cater Corona Virus pandemic. I have made an project utilizing Alexnet dataset to identify the people with / without face masks. Moreover, due to GPU specificaions it was all simulated in MATLAB workspace of edition 2019b.
+Until now, we have seen that many system shows high performance over images, overcoming most of the issues commonly faced in object detection in images. For real-world scenarios, it is beneficial to extend such a detection system to work over video feeds as well. So this project is fully based on live video feeds.
