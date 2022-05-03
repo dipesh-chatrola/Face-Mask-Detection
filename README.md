@@ -1,2 +1,2 @@
-# Face-Mask-Detection
-The system is made using AlexNet Model and it detects human face as well as Mask. If person without is caught in the camera then it will give warning.
+# Face-Mask-Detection😷
+The project is made to deploy Deep Learning Approach to Cater Corona Virus pandemic. I have made an project utilizing Alexnet dataset to identify the people with / without face masks. Moreover, due to GPU specificaions it was all simulated in MATLAB workspace of edition 2019b.
